@@ -1,0 +1,2 @@
+product_id,manufacturer_name,quantity_in_stock,supplier_contact,last_stock_update,price_per_unit,category,location_in_warehouse,reorder_threshold
+123,TestCompany,10,123-456-7891,01/01/2000,100.00,Test,A1,1
